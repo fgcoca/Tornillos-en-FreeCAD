@@ -6,7 +6,7 @@ El icono del banco de trabajo *Fastener* es el que vemos a continuación.
 
 | Icono del banco de trabajo Fasteners |
 |:-:|
-| ![Icono Fasteners](../site/img/icono/Fasteners_workbench_icon.png) |
+| ![Icono Fasteners](../img/icono/Fasteners_workbench_icon.png) |
 | Icono Fasteners |
 
 </center>
