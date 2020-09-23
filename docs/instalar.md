@@ -1,5 +1,16 @@
 # Instalación
 
+El icono del banco de trabajo *Fastener* es el que vemos a continuación.
+
+<center>
+
+| Icono del banco de trabajo Fasteners |
+|:-:|
+| ![Icono Fasteners](../site/img/icono/Fasteners_workbench_icon.png) |
+| Icono Fasteners |
+
+</center>
+
 Nos dirigimos a la entrada Addon manager del menú herramientas tal y como vemos en la imagen 1.
 
 <center>

@@ -18,11 +18,3 @@ El uso es bastante sencillo:
 
 Al hacer clic en cualquiera de los tornillos se creará una copia en el origen de coordenadas. Para cambiar el tamaño, la longitud y otros parámetros, seleccionamos el tornillo recién creado y en la pestaña de datos en el panel de propiedades procedemos a cambiarlos.
 
-<center>
-
-| Icono del banco de trabajo Fasteners |
-|:-:|
-| ![Icono Fasteners](../site/img/icono/Fasteners_workbench_icon.png) |
-| Icono Fasteners |
-
-</center>
