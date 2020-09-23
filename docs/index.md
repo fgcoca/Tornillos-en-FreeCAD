@@ -22,7 +22,7 @@ Al hacer clic en cualquiera de los tornillos se creará una copia en el origen d
 
 | Icono del banco de trabajo Fasteners |
 |:-:|
-| ![Icono Fasteners](../img/Fasteners_workbench_icon.svg) |
+| ![Icono Fasteners](../img/icono/Fasteners_workbench_icon.svg) |
 | Icono Fasteners |
 
 </center>
