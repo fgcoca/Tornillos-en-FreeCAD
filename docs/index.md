@@ -17,4 +17,3 @@ El uso es bastante sencillo:
 * Aparecerán una serie de tornillos en la barra de herramientas del banco de trabajo.
 
 Al hacer clic en cualquiera de los tornillos se creará una copia en el origen de coordenadas. Para cambiar el tamaño, la longitud y otros parámetros, seleccionamos el tornillo recién creado y en la pestaña de datos en el panel de propiedades procedemos a cambiarlos.
-
