@@ -93,8 +93,8 @@ En la siguiente tabla tenemos la descripción de los tornillos en el orden que a
 | ![ASMEB18_21_1_estrecha](../img/tornillos/ASMEB18_21_1_estrecha.png) | ASME B18.21.1 | Arandela plana estrecha |
 | ![ASMEB18_21_1_normal](../img/tornillos/ASMEB18_21_1_normal.png) |ASME B18.21.1  | Arandela plana normal |
 | ![ASMEB18_21_1_ancha](../img/tornillos/ASMEB18_21_1_ancha.png) | ASME B18.21.1 | Arandela plana ancha |
-| ![varilla_roscada](../img/tornillos/varilla_roscada.png) | DIN 975 | Varilla roscada de rosca métrica de cualquier longitud |
-| ![tubo_rosca_interior](../img/tornillos/tubo_rosca_interior.png) | UNE EN 10255 | Tubo roscado de rosca métrica de cualquier longitud |
-| ![varilla_roscada_avellanada](../img/tornillos/varilla_roscada_avellanada.png) | DIN 975 | Varilla roscada de rosca métrica extremos avellanados de cualquier longitud |
+| ![varilla_roscada](../img/tornillos/varilla_roscada.png) | DIN 975 | Macho de roscar (para generar roscas interiores) |
+| ![tubo_rosca_interior](../img/tornillos/tubo_rosca_interior.png) | UNE EN 10255 | Terraja de roscar (para generar roscas exteriores) |
+| ![varilla_roscada_avellanada](../img/tornillos/varilla_roscada_avellanada.png) | DIN 975 | Varilla roscada de rosca métrica extremos achaflanados de cualquier longitud |
 
 </center>
